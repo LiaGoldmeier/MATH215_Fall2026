@@ -87,7 +87,7 @@ transformations = {
 
 # Website
 
-st.title("Image Transformations Using Linear Algebra")
+st.title("Transforming Images with Matrix Multiplication")
 
 st.write("Explore rotations, reflections, and composition of transformation matrices.")
 
